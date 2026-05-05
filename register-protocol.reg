@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\garagesync]
+@="Siriman Motor Works Sync Server"
+"URL Protocol"=""
+
+[HKEY_CLASSES_ROOT\garagesync\DefaultIcon]
+@="cmd.exe"
+
+[HKEY_CLASSES_ROOT\garagesync\shell]
+
+[HKEY_CLASSES_ROOT\garagesync\shell\open]
+
+[HKEY_CLASSES_ROOT\garagesync\shell\open\command]
+@="cmd.exe /c \"start \"\" \"%USERPROFILE%\\Desktop\\start-server.bat\"\""

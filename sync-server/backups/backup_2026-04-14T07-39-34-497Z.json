@@ -1,0 +1,16 @@
+{
+  "lastSync": "2026-04-13T19:34:06.410Z",
+  "version": 260,
+  "data": {
+    "customers": [],
+    "bills": [],
+    "estimates": [],
+    "paymentSlips": [],
+    "bankAccounts": [],
+    "currentBillNumber": 1,
+    "currentEstimateNumber": 1,
+    "currentCashNumber": 1,
+    "currentCreditNumber": 1,
+    "currentSlipNumber": 1
+  }
+}

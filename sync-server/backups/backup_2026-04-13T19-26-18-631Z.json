@@ -1,0 +1,1012 @@
+{
+  "lastSync": "2026-04-13T19:25:18.632Z",
+  "version": 251,
+  "data": {
+    "customers": [
+      {
+        "id": 1775502889323,
+        "name": "rehan",
+        "contacts": "0789456123",
+        "vehicleNo": "ABC-1010",
+        "vehicleModel": "Fit",
+        "brand": "Toyota",
+        "address": "Test data",
+        "isCompany": false,
+        "createdAt": "2026-04-06T19:14:49.323Z",
+        "updatedAt": "2026-04-07T01:42:30.668Z"
+      },
+      {
+        "id": 1775532288330,
+        "name": "telecom",
+        "contacts": "012333212",
+        "vehicleNo": "KB-1012",
+        "vehicleModel": "",
+        "brand": "",
+        "address": "boomtruck",
+        "isCompany": true,
+        "createdAt": "2026-04-07T03:24:48.330Z"
+      },
+      {
+        "id": 1775562095465,
+        "name": "Telecom",
+        "contacts": "",
+        "vehicleNo": "41-7678",
+        "vehicleModel": "",
+        "brand": "",
+        "companyAddress": "Sri Lankan Telecom,\nNegombo",
+        "address": "",
+        "isCompany": true,
+        "createdAt": "2026-04-07T11:41:35.465Z"
+      },
+      {
+        "id": 1775730567681,
+        "name": "Telecom",
+        "contacts": "",
+        "vehicleNo": "41-9738",
+        "vehicleModel": "",
+        "brand": "",
+        "companyAddress": "Sri Lanka Telecom,\nNegombo",
+        "address": "Boom Truck",
+        "isCompany": true,
+        "createdAt": "2026-04-09T10:29:27.681Z"
+      }
+    ],
+    "bills": [
+      {
+        "billNo": "CH-001",
+        "billType": "cash",
+        "customerId": 1775502889323,
+        "customerName": "rehan",
+        "customerPhone": "0789456123",
+        "vehicleNo": "ABC-1010",
+        "vehicleModel": "Fit",
+        "brand": "Toyota",
+        "engineNo": "",
+        "items": [
+          {
+            "type": "Labor",
+            "desc": "oil change",
+            "price": 1200,
+            "qty": 1,
+            "total": 1200
+          },
+          {
+            "type": "Part",
+            "desc": "oil",
+            "price": 1000,
+            "qty": 5,
+            "total": 5000
+          }
+        ],
+        "subtotal": 6200,
+        "tax": 0,
+        "total": 6200,
+        "advance": 1000,
+        "balance": 5200,
+        "paid": false,
+        "mileage": "12000",
+        "bankDetails": null,
+        "date": "2026-04-06T19:16:07.234Z",
+        "starred": false
+      },
+      {
+        "billNo": "CH-002",
+        "billType": "cash",
+        "customerId": 1775502889323,
+        "customerName": "rehan",
+        "customerPhone": "0789456123",
+        "vehicleNo": "ABC-1010",
+        "vehicleModel": "Fit",
+        "brand": "Toyota",
+        "engineNo": "",
+        "items": [
+          {
+            "type": "Labor",
+            "desc": "oli",
+            "price": 12300,
+            "qty": 1,
+            "total": 12300
+          },
+          {
+            "type": "Part",
+            "desc": "fefef",
+            "price": 120,
+            "qty": 1,
+            "total": 120
+          }
+        ],
+        "subtotal": 12420,
+        "tax": 0,
+        "total": 12420,
+        "advance": 500,
+        "balance": 11920,
+        "paid": true,
+        "mileage": "56544",
+        "bankDetails": null,
+        "date": "2026-04-06T19:17:20.698Z"
+      },
+      {
+        "billNo": "CH-004",
+        "billType": "cash",
+        "customerId": 1775502889323,
+        "customerName": "rehan",
+        "customerPhone": "0789456123",
+        "vehicleNo": "ABC-1010",
+        "vehicleModel": "Fit",
+        "brand": "Toyota",
+        "engineNo": "",
+        "items": [
+          {
+            "type": "Labor",
+            "desc": "wer",
+            "price": 1234,
+            "qty": 1,
+            "total": 1234
+          },
+          {
+            "type": "Part",
+            "desc": "gwegfvweg",
+            "price": 1230,
+            "qty": 1,
+            "total": 1230
+          }
+        ],
+        "subtotal": 2464,
+        "tax": 0,
+        "total": 2464,
+        "advance": 1000,
+        "balance": 1464,
+        "paid": false,
+        "mileage": "",
+        "bankDetails": null,
+        "date": "2026-04-07T04:20:37.792Z"
+      },
+      {
+        "billNo": "CH-006",
+        "billType": "cash",
+        "customerId": 1775502889323,
+        "customerName": "rehan",
+        "customerPhone": "0789456123",
+        "vehicleNo": "ABC-1010",
+        "vehicleModel": "Fit",
+        "brand": "Toyota",
+        "engineNo": "",
+        "items": [
+          {
+            "type": "Labor",
+            "desc": "fd",
+            "price": 123,
+            "qty": 1,
+            "total": 123
+          }
+        ],
+        "subtotal": 123,
+        "tax": 0,
+        "total": 123,
+        "advance": 0,
+        "balance": 123,
+        "paid": false,
+        "mileage": "",
+        "bankDetails": null,
+        "date": "2026-04-07T05:10:51.026Z"
+      },
+      {
+        "billNo": "CH-008",
+        "billType": "cash",
+        "customerId": 1775502889323,
+        "customerName": "rehan",
+        "customerPhone": "0789456123",
+        "vehicleNo": "ABC-1010",
+        "vehicleModel": "Fit",
+        "brand": "Toyota",
+        "engineNo": "",
+        "items": [
+          {
+            "type": "Labor",
+            "desc": "wer",
+            "price": 123,
+            "qty": 1,
+            "total": 123
+          }
+        ],
+        "subtotal": 123,
+        "tax": 0,
+        "total": 123,
+        "advance": 0,
+        "balance": 123,
+        "paid": false,
+        "mileage": "",
+        "bankDetails": null,
+        "date": "2026-04-07T05:22:55.630Z",
+        "starred": false
+      },
+      {
+        "billNo": "CH-009",
+        "billType": "cash",
+        "customerId": 1775502889323,
+        "customerName": "rehan",
+        "customerPhone": "0789456123",
+        "vehicleNo": "ABC-1010",
+        "vehicleModel": "Fit",
+        "brand": "Toyota",
+        "engineNo": "",
+        "items": [
+          {
+            "type": "Labor",
+            "desc": "to replace the brake pads",
+            "price": 1200,
+            "qty": 1,
+            "total": 1200
+          },
+          {
+            "type": "Labor",
+            "desc": "to change oil",
+            "price": 1100,
+            "qty": 1,
+            "total": 1100
+          },
+          {
+            "type": "Labor",
+            "desc": "to replace rear brake pads",
+            "price": 1500,
+            "qty": 1,
+            "total": 1500
+          },
+          {
+            "type": "Part",
+            "desc": "oil",
+            "price": 1000,
+            "qty": 5,
+            "total": 5000
+          },
+          {
+            "type": "Part",
+            "desc": "brake pad front",
+            "price": 12000,
+            "qty": 1,
+            "total": 12000
+          },
+          {
+            "type": "Part",
+            "desc": "brake pad rear",
+            "price": 15000,
+            "qty": 1,
+            "total": 15000
+          }
+        ],
+        "subtotal": 35800,
+        "tax": 0,
+        "total": 35800,
+        "advance": 1200,
+        "balance": 34600,
+        "paid": false,
+        "mileage": "",
+        "bankDetails": {
+          "bankName": "comee",
+          "accountName": "",
+          "accountNo": "155555",
+          "branch": ""
+        },
+        "date": "2026-04-07T06:41:26.161Z",
+        "starred": false
+      },
+      {
+        "billNo": "CH-010",
+        "billType": "cash",
+        "customerId": 1775532288330,
+        "customerName": "telecom",
+        "customerPhone": "012333212",
+        "isCompany": true,
+        "vehicleNo": "KB-1012",
+        "vehicleModel": "",
+        "brand": "",
+        "engineNo": "",
+        "items": [
+          {
+            "type": "Labor",
+            "desc": "123333",
+            "price": 234,
+            "qty": 1,
+            "total": 234
+          }
+        ],
+        "subtotal": 234,
+        "tax": 0,
+        "total": 234,
+        "advance": 0,
+        "balance": 234,
+        "paid": false,
+        "mileage": "12500",
+        "bankDetails": null,
+        "date": "2026-04-07T07:13:37.659Z"
+      },
+      {
+        "billNo": "CR-001",
+        "billType": "credit",
+        "customerId": 1775532288330,
+        "customerName": "telecom",
+        "customerPhone": "012333212",
+        "isCompany": true,
+        "companyAddress": "",
+        "vehicleNo": "KB-1012",
+        "vehicleModel": "",
+        "brand": "",
+        "engineNo": "",
+        "items": [
+          {
+            "type": "Labor",
+            "desc": "to replace rear brake pads",
+            "price": 1233,
+            "qty": 1,
+            "total": 1233
+          }
+        ],
+        "subtotal": 1233,
+        "tax": 0,
+        "total": 1233,
+        "advance": 0,
+        "balance": 1233,
+        "paid": true,
+        "mileage": "",
+        "bankDetails": null,
+        "date": "2026-04-07T07:40:42.003Z"
+      },
+      {
+        "billNo": "CH-011",
+        "billType": "cash",
+        "customerId": 1775502889323,
+        "customerName": "rehan",
+        "customerPhone": "0789456123",
+        "isCompany": false,
+        "vehicleNo": "ABC-1010",
+        "vehicleModel": "Fit",
+        "brand": "Toyota",
+        "engineNo": "",
+        "items": [
+          {
+            "type": "Labor",
+            "desc": "to replace rear brake pads",
+            "price": 7678,
+            "qty": 1,
+            "total": 7678
+          },
+          {
+            "type": "Part",
+            "desc": "brake pad front",
+            "price": 766,
+            "qty": 1,
+            "total": 766
+          }
+        ],
+        "subtotal": 8444,
+        "tax": 0,
+        "total": 8444,
+        "advance": 1000,
+        "balance": 7444,
+        "paid": true,
+        "mileage": "",
+        "bankDetails": {
+          "bankName": "comee",
+          "accountName": "",
+          "accountNo": "155555",
+          "branch": ""
+        },
+        "date": "2026-04-07T11:22:11.415Z"
+      },
+      {
+        "billNo": "CR-002",
+        "billType": "credit",
+        "customerId": 1775562095465,
+        "customerName": "Telecom",
+        "customerPhone": "",
+        "isCompany": true,
+        "companyAddress": "Sri Lankan Telecom,\nNegombo",
+        "vehicleNo": "41-7678",
+        "vehicleModel": "",
+        "brand": "",
+        "engineNo": "",
+        "items": [
+          {
+            "type": "Labor",
+            "desc": "to replace rear brake pads",
+            "price": 12000,
+            "qty": 1,
+            "total": 12000
+          },
+          {
+            "type": "Labor",
+            "desc": "to change oil",
+            "price": 12300,
+            "qty": 1,
+            "total": 12300
+          },
+          {
+            "type": "Labor",
+            "desc": "to replace the brake pads",
+            "price": 154200,
+            "qty": 1,
+            "total": 154200
+          },
+          {
+            "type": "Part",
+            "desc": "brake pad front",
+            "price": 13200,
+            "qty": 1,
+            "total": 13200
+          },
+          {
+            "type": "Part",
+            "desc": "brake pad front",
+            "price": 1200,
+            "qty": 1,
+            "total": 1200
+          }
+        ],
+        "subtotal": 192900,
+        "tax": 0,
+        "total": 192900,
+        "advance": 12000,
+        "balance": 180900,
+        "paid": false,
+        "mileage": "12000",
+        "bankDetails": null,
+        "date": "2026-04-07T11:43:16.045Z"
+      },
+      {
+        "billNo": "CH-012",
+        "billType": "cash",
+        "customerId": 1775562095465,
+        "customerName": "Telecom",
+        "customerPhone": "",
+        "isCompany": true,
+        "companyAddress": "Sri Lankan Telecom,\nNegombo",
+        "vehicleNo": "41-7678",
+        "vehicleModel": "",
+        "brand": "",
+        "engineNo": "",
+        "items": [
+          {
+            "type": "Labor",
+            "desc": "to replace rear brake pads",
+            "price": 123,
+            "qty": 1,
+            "total": 123
+          }
+        ],
+        "subtotal": 123,
+        "tax": 0,
+        "total": 123,
+        "advance": 0,
+        "balance": 123,
+        "paid": false,
+        "mileage": "",
+        "bankDetails": null,
+        "date": "2026-04-07T11:44:43.085Z",
+        "starred": false
+      },
+      {
+        "billNo": "CR-003",
+        "billType": "credit",
+        "customerId": 1775730567681,
+        "customerName": "Telecom",
+        "customerPhone": "",
+        "isCompany": true,
+        "companyAddress": "Sri Lanka Telecom,\nNegombo",
+        "vehicleNo": "41-9738",
+        "vehicleModel": "",
+        "brand": "",
+        "engineNo": "",
+        "items": [
+          {
+            "type": "Labor",
+            "desc": "To remove the borth side brakes and replace brake washers",
+            "price": 4800,
+            "qty": 1,
+            "total": 4800
+          },
+          {
+            "type": "Labor",
+            "desc": "To replace front right side hub racer",
+            "price": 4000,
+            "qty": 1,
+            "total": 4000
+          },
+          {
+            "type": "Labor",
+            "desc": "To remove the front brakes and replace the washers",
+            "price": 5000,
+            "qty": 1,
+            "total": 5000
+          },
+          {
+            "type": "Labor",
+            "desc": "Remove rear left hub, clean it, grease it and replace oil seal.",
+            "price": 2000,
+            "qty": 1,
+            "total": 2000
+          },
+          {
+            "type": "Labor",
+            "desc": "Remove front right hub, clean it, grease it and replace oil seal.",
+            "price": 2000,
+            "qty": 1,
+            "total": 2000
+          },
+          {
+            "type": "Labor",
+            "desc": "Remove and refit brake servo unite.",
+            "price": 4000,
+            "qty": 1,
+            "total": 4000
+          },
+          {
+            "type": "Labor",
+            "desc": "Disassemble brake servo unit, replace servo repair kit and assemble it.",
+            "price": 6500,
+            "qty": 1,
+            "total": 6500
+          },
+          {
+            "type": "Labor",
+            "desc": "Remove rear left brake pipeline, weld it and refit again.",
+            "price": 2600,
+            "qty": 1,
+            "total": 2600
+          },
+          {
+            "type": "Labor",
+            "desc": "Remove and refit hand brake cable",
+            "price": 3000,
+            "qty": 1,
+            "total": 3000
+          },
+          {
+            "type": "Labor",
+            "desc": "Remove hand brake drum and adjust parking brake.",
+            "price": 3500,
+            "qty": 1,
+            "total": 3500
+          },
+          {
+            "type": "Part",
+            "desc": "Booster repair kit full(Genuine)",
+            "price": 23500,
+            "qty": 1,
+            "total": 23500
+          },
+          {
+            "type": "Part",
+            "desc": "Dust cover 04",
+            "price": 2600,
+            "qty": 1,
+            "total": 2600
+          },
+          {
+            "type": "Part",
+            "desc": "Oil seal large (Genuine)  02",
+            "price": 9250,
+            "qty": 1,
+            "total": 9250
+          },
+          {
+            "type": "Part",
+            "desc": "Oil seal small (Genuine)  02",
+            "price": 5900,
+            "qty": 1,
+            "total": 5900
+          },
+          {
+            "type": "Part",
+            "desc": "Rubber grease  04",
+            "price": 2800,
+            "qty": 1,
+            "total": 2800
+          },
+          {
+            "type": "Part",
+            "desc": "1  7/16 Brake washers  08",
+            "price": 4800,
+            "qty": 1,
+            "total": 4800
+          },
+          {
+            "type": "Part",
+            "desc": "1 3/8  Brake washers  04",
+            "price": 2900,
+            "qty": 1,
+            "total": 2900
+          },
+          {
+            "type": "Part",
+            "desc": "Dust boot  04",
+            "price": 2180,
+            "qty": 1,
+            "total": 2180
+          },
+          {
+            "type": "Part",
+            "desc": "Grease (1500g)",
+            "price": 5250,
+            "qty": 1,
+            "total": 5250
+          },
+          {
+            "type": "Part",
+            "desc": "7/16 hose",
+            "price": 920,
+            "qty": 1,
+            "total": 920
+          },
+          {
+            "type": "Part",
+            "desc": "Brake oil (1L)",
+            "price": 4680,
+            "qty": 1,
+            "total": 4680
+          },
+          {
+            "type": "Part",
+            "desc": "Spring",
+            "price": 350,
+            "qty": 1,
+            "total": 350
+          },
+          {
+            "type": "Part",
+            "desc": "Kerosine oil (3L)",
+            "price": 600,
+            "qty": 1,
+            "total": 600
+          },
+          {
+            "type": "Part",
+            "desc": "Nut, bolt & washers",
+            "price": 640,
+            "qty": 1,
+            "total": 640
+          },
+          {
+            "type": "Part",
+            "desc": "Polishing brake cylinders  04",
+            "price": 1950,
+            "qty": 1,
+            "total": 1950
+          },
+          {
+            "type": "Part",
+            "desc": "Hub racer",
+            "price": 14500,
+            "qty": 1,
+            "total": 14500
+          },
+          {
+            "type": "Part",
+            "desc": "Hand brake cable repair charges",
+            "price": 7500,
+            "qty": 1,
+            "total": 7500
+          }
+        ],
+        "subtotal": 127720,
+        "tax": 0,
+        "total": 127720,
+        "advance": 0,
+        "balance": 127720,
+        "paid": false,
+        "mileage": "",
+        "bankDetails": null,
+        "date": "2026-04-09T10:43:03.036Z"
+      },
+      {
+        "billNo": "CH-013",
+        "billType": "cash",
+        "customerId": 1775532288330,
+        "customerName": "telecom",
+        "customerPhone": "012333212",
+        "isCompany": true,
+        "companyAddress": "",
+        "vehicleNo": "KB-1012",
+        "vehicleModel": "",
+        "brand": "",
+        "engineNo": "",
+        "items": [
+          {
+            "type": "Labor",
+            "desc": "Remove hand brake drum and adjust parking brake.",
+            "price": 0,
+            "qty": 1,
+            "total": 0
+          }
+        ],
+        "subtotal": 0,
+        "tax": 0,
+        "total": 0,
+        "advance": 0,
+        "balance": 0,
+        "paid": false,
+        "mileage": "",
+        "bankDetails": null,
+        "date": "2026-01-29T00:00:00.000Z"
+      },
+      {
+        "billNo": "CH-014",
+        "billType": "cash",
+        "customerId": 1775562095465,
+        "customerName": "Telecom",
+        "customerPhone": "",
+        "isCompany": true,
+        "companyAddress": "Sri Lankan Telecom,\nNegombo",
+        "vehicleNo": "41-7678",
+        "vehicleModel": "",
+        "brand": "",
+        "engineNo": "",
+        "items": [
+          {
+            "type": "Labor",
+            "desc": "to replace rear brake pads",
+            "price": 1230,
+            "qty": 1,
+            "total": 1230
+          }
+        ],
+        "subtotal": 1230,
+        "tax": 0,
+        "total": 1230,
+        "advance": 0,
+        "balance": 1230,
+        "paid": false,
+        "mileage": "",
+        "bankDetails": null,
+        "date": "2026-04-13T06:31:16.281Z"
+      },
+      {
+        "billNo": "CH-015",
+        "billType": "cash",
+        "customerId": 1775532288330,
+        "customerName": "telecom",
+        "customerPhone": "012333212",
+        "isCompany": true,
+        "companyAddress": "",
+        "vehicleNo": "KB-1012",
+        "vehicleModel": "",
+        "brand": "",
+        "engineNo": "",
+        "items": [
+          {
+            "type": "Labor",
+            "desc": "hgty",
+            "price": 567,
+            "qty": 1,
+            "total": 567
+          }
+        ],
+        "subtotal": 567,
+        "tax": 0,
+        "total": 567,
+        "advance": 0,
+        "balance": 567,
+        "paid": false,
+        "mileage": "",
+        "bankDetails": null,
+        "date": "2026-04-13T16:17:13.882Z"
+      },
+      {
+        "billNo": "CH-016",
+        "billType": "cash",
+        "customerId": 1775502889323,
+        "customerName": "rehan",
+        "customerPhone": "0789456123",
+        "isCompany": false,
+        "companyAddress": "",
+        "vehicleNo": "ABC-1010",
+        "vehicleModel": "Fit",
+        "brand": "Toyota",
+        "engineNo": "",
+        "items": [
+          {
+            "type": "Labor",
+            "desc": "to replace rear brake pads",
+            "price": 123,
+            "qty": 1,
+            "total": 123
+          }
+        ],
+        "subtotal": 123,
+        "tax": 0,
+        "total": 123,
+        "advance": 0,
+        "balance": 123,
+        "paid": false,
+        "mileage": "",
+        "bankDetails": null,
+        "date": "2026-04-13T17:34:28.540Z"
+      }
+    ],
+    "estimates": [
+      {
+        "estNo": "EST-202604-100",
+        "customerId": 1775502889323,
+        "customerName": "rehan",
+        "customerPhone": "0789456123",
+        "vehicleNo": "ABC-1010",
+        "vehicleModel": "Fit",
+        "brand": "Toyota",
+        "engineNo": "",
+        "to": "",
+        "notes": "",
+        "items": [
+          {
+            "type": "Labor",
+            "desc": "ertt",
+            "price": 234,
+            "total": 234
+          }
+        ],
+        "total": 234,
+        "date": "2026-04-07T05:29:21.314Z"
+      },
+      {
+        "estNo": "EST-202604-101",
+        "customerId": 1775532288330,
+        "customerName": "telecom",
+        "customerPhone": "012333212",
+        "vehicleNo": "KB-1012",
+        "vehicleModel": "",
+        "brand": "",
+        "engineNo": "",
+        "to": "",
+        "notes": "",
+        "items": [
+          {
+            "type": "Labor",
+            "desc": "hgty",
+            "price": 567,
+            "total": 567
+          }
+        ],
+        "total": 567,
+        "date": "2026-04-07T05:29:36.102Z",
+        "convertedToBill": true
+      },
+      {
+        "estNo": "EST-202604-102",
+        "customerId": 1775562095465,
+        "customerName": "Telecom",
+        "customerPhone": "",
+        "isCompany": true,
+        "companyAddress": "Sri Lankan Telecom,\nNegombo",
+        "vehicleNo": "41-7678",
+        "vehicleModel": "",
+        "brand": "",
+        "engineNo": "",
+        "to": "",
+        "notes": "",
+        "items": [
+          {
+            "type": "Labor",
+            "desc": "to replace rear brake pads",
+            "price": 1230,
+            "total": 1230
+          }
+        ],
+        "total": 1230,
+        "date": "2026-04-07T11:45:46.661Z",
+        "convertedToBill": true
+      },
+      {
+        "estNo": "EST-202604-103",
+        "customerId": 1775502889323,
+        "customerName": "rehan",
+        "customerPhone": "0789456123",
+        "isCompany": false,
+        "companyAddress": "",
+        "vehicleNo": "ABC-1010",
+        "vehicleModel": "Fit",
+        "brand": "Toyota",
+        "engineNo": "",
+        "to": "",
+        "notes": "",
+        "items": [
+          {
+            "type": "Labor",
+            "desc": "to replace rear brake pads",
+            "price": 123,
+            "total": 123
+          }
+        ],
+        "total": 123,
+        "date": "2026-04-07T17:20:03.019Z",
+        "convertedToBill": true
+      },
+      {
+        "estNo": "EST-202604-104",
+        "customerId": 1775502889323,
+        "customerName": "rehan",
+        "customerPhone": "0789456123",
+        "isCompany": false,
+        "companyAddress": "",
+        "vehicleNo": "ABC-1010",
+        "vehicleModel": "Fit",
+        "brand": "Toyota",
+        "engineNo": "",
+        "to": "",
+        "notes": "",
+        "items": [
+          {
+            "type": "Part",
+            "desc": "Nut, bolt & washers",
+            "price": 0,
+            "qty": 1,
+            "total": 0
+          }
+        ],
+        "total": 0,
+        "date": "2026-04-30T00:00:00.000Z",
+        "convertedToBill": true
+      }
+    ],
+    "paymentSlips": [
+      {
+        "slipNo": "PAY-202604-100",
+        "customerId": 1775502889323,
+        "customerName": "rehan",
+        "customerPhone": "0789456123",
+        "vehicleNo": "ABC-1010",
+        "refBill": "CH-002",
+        "amount": 12420,
+        "method": "Cash",
+        "notes": "",
+        "date": "2026-04-07T05:29:45.043Z"
+      },
+      {
+        "slipNo": "PAY-202604-101",
+        "customerId": 1775730567681,
+        "customerName": "Telecom",
+        "customerPhone": "",
+        "vehicleNo": "41-9738",
+        "refBill": "CR-003",
+        "amount": 127720,
+        "method": "Cash",
+        "notes": "",
+        "date": "2026-04-13T05:17:50.238Z"
+      },
+      {
+        "slipNo": "PAY-202604-102",
+        "customerId": 1775562095465,
+        "customerName": "Telecom",
+        "customerPhone": "",
+        "vehicleNo": "41-7678",
+        "refBill": "CH-012",
+        "amount": 123,
+        "method": "Cash",
+        "notes": "",
+        "date": "2026-04-13T05:34:31.175Z"
+      },
+      {
+        "slipNo": "PAY-202604-103",
+        "customerId": 1775562095465,
+        "customerName": "Telecom",
+        "customerPhone": "",
+        "vehicleNo": "41-7678",
+        "refBill": "CH-012",
+        "amount": 123,
+        "method": "Cash",
+        "notes": "",
+        "date": "2026-01-29T00:00:00.000Z"
+      }
+    ],
+    "bankAccounts": [
+      {
+        "bankName": "BOC",
+        "accountName": "T.R.S.De Silva",
+        "accountNo": "1234561",
+        "branch": "Negombo"
+      }
+    ],
+    "currentBillNumber": 28,
+    "currentEstimateNumber": 8,
+    "currentCashNumber": 10,
+    "currentCreditNumber": 5,
+    "currentSlipNumber": 5
+  }
+}

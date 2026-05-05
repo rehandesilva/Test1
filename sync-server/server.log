@@ -1,0 +1,147 @@
+
+🚀 Garage Sync Server running on http://localhost:3001
+
+[INFO] Starting up — fetching latest data from cloud...
+[SUCCESS] ✅ Local data is up to date
+[INFO] 💾 Data saved to data.json
+[SUCCESS] ☁️ Cloud sync OK — G:✗ M:✓
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[ERROR] ❌ Auto sync failed — working offline
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] 💾 Data saved to data.json
+[SUCCESS] ☁️ Cloud sync OK — G:✗ M:✓
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[ERROR] ❌ Auto sync failed — working offline
+[INFO] 💾 Data saved to data.json
+[SUCCESS] ☁️ Cloud sync OK — G:✗ M:✓
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] 💾 Data saved to data.json
+[SUCCESS] ☁️ Cloud sync OK — G:✗ M:✓
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] 🔄 Manual sync triggered
+[SUCCESS] ⬆️ Pushed local data to cloud
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] 💾 Data saved to data.json
+[SUCCESS] ☁️ Cloud sync OK — G:✗ M:✓
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] 💾 Data saved to data.json
+[SUCCESS] ☁️ Cloud sync OK — G:✗ M:✓
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
+[INFO] ⏰ Auto sync triggered
+[SUCCESS] ✅ Auto sync complete — Google: FAIL, Mega: OK
